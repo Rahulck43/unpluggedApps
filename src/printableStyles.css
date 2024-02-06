@@ -1,0 +1,8 @@
+@media print {
+    /* Define styles for printing */
+    body {
+      font-size: 12pt;
+    }
+  
+    /* Add any additional styles as needed */
+  }
